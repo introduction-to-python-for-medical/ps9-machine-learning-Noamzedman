@@ -1,2 +1,2 @@
-path: "noam_model.joblib"
+path: "roni_model.joblib"
 features: ['PPE', 'DFA']
